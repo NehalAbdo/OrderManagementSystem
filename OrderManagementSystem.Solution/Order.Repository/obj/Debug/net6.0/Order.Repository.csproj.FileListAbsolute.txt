@@ -1,0 +1,15 @@
+D:\Task\OrderManagementSystem.Solution\Order.Repository\bin\Debug\net6.0\Order.Repository.deps.json
+D:\Task\OrderManagementSystem.Solution\Order.Repository\bin\Debug\net6.0\Order.Repository.dll
+D:\Task\OrderManagementSystem.Solution\Order.Repository\bin\Debug\net6.0\Order.Repository.pdb
+D:\Task\OrderManagementSystem.Solution\Order.Repository\bin\Debug\net6.0\Order.Core.dll
+D:\Task\OrderManagementSystem.Solution\Order.Repository\bin\Debug\net6.0\Order.Core.pdb
+D:\Task\OrderManagementSystem.Solution\Order.Repository\obj\Debug\net6.0\Order.Repository.csproj.AssemblyReference.cache
+D:\Task\OrderManagementSystem.Solution\Order.Repository\obj\Debug\net6.0\Order.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\OrderManagementSystem.Solution\Order.Repository\obj\Debug\net6.0\Order.Repository.AssemblyInfoInputs.cache
+D:\Task\OrderManagementSystem.Solution\Order.Repository\obj\Debug\net6.0\Order.Repository.AssemblyInfo.cs
+D:\Task\OrderManagementSystem.Solution\Order.Repository\obj\Debug\net6.0\Order.Repository.csproj.CoreCompileInputs.cache
+D:\Task\OrderManagementSystem.Solution\Order.Repository\obj\Debug\net6.0\Order.Repository.csproj.CopyComplete
+D:\Task\OrderManagementSystem.Solution\Order.Repository\obj\Debug\net6.0\Order.Repository.dll
+D:\Task\OrderManagementSystem.Solution\Order.Repository\obj\Debug\net6.0\refint\Order.Repository.dll
+D:\Task\OrderManagementSystem.Solution\Order.Repository\obj\Debug\net6.0\Order.Repository.pdb
+D:\Task\OrderManagementSystem.Solution\Order.Repository\obj\Debug\net6.0\ref\Order.Repository.dll

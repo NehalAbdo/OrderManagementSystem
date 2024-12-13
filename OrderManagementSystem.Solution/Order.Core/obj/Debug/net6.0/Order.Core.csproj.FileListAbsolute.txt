@@ -1,0 +1,12 @@
+D:\Task\OrderManagementSystem.Solution\Order.Core\bin\Debug\net6.0\Order.Core.deps.json
+D:\Task\OrderManagementSystem.Solution\Order.Core\bin\Debug\net6.0\Order.Core.dll
+D:\Task\OrderManagementSystem.Solution\Order.Core\bin\Debug\net6.0\Order.Core.pdb
+D:\Task\OrderManagementSystem.Solution\Order.Core\obj\Debug\net6.0\Order.Core.csproj.AssemblyReference.cache
+D:\Task\OrderManagementSystem.Solution\Order.Core\obj\Debug\net6.0\Order.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\OrderManagementSystem.Solution\Order.Core\obj\Debug\net6.0\Order.Core.AssemblyInfoInputs.cache
+D:\Task\OrderManagementSystem.Solution\Order.Core\obj\Debug\net6.0\Order.Core.AssemblyInfo.cs
+D:\Task\OrderManagementSystem.Solution\Order.Core\obj\Debug\net6.0\Order.Core.csproj.CoreCompileInputs.cache
+D:\Task\OrderManagementSystem.Solution\Order.Core\obj\Debug\net6.0\Order.Core.dll
+D:\Task\OrderManagementSystem.Solution\Order.Core\obj\Debug\net6.0\refint\Order.Core.dll
+D:\Task\OrderManagementSystem.Solution\Order.Core\obj\Debug\net6.0\Order.Core.pdb
+D:\Task\OrderManagementSystem.Solution\Order.Core\obj\Debug\net6.0\ref\Order.Core.dll
